@@ -23,9 +23,9 @@ This is a Muffaletta Sandwich from [Cochon Butcher](https://cochonbutcher.com/) 
 ## More about me
 Now I am going to cheat a little bit and mostly link to existing material that introduces me. Those sources above will tell you about my education, training, research and some hobbies. 
 
-You can read a bit more about my work and my training on my [group website](http://handelgroup.uga.edu/) and specifically [my entry](http://handelgroup.uga.edu/authors/andreashandel/).
+You can read a bit more about my work and my training on my [group website](http://handelgroup.uga.edu/) and also [on my person website](https://www.andreashandel.com/).
 
-As part of making this course, UGA's office of online learning made a general introductory video for me.
+UGA's office of online learning also made a general introductory video for me.
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lfTsTOykwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
